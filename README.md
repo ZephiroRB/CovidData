@@ -3,4 +3,5 @@ Scrapper for country wise data present at https://www.worldometers.info/coronavi
 
 
 `pip install -r requirements.txt`
+
 `python3 scraper.py`
